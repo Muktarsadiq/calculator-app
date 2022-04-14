@@ -1,3 +1,1 @@
-#js-cal
-
-git tuotorials!
+a calculator made with vanilla javaScript
